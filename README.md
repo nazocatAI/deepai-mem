@@ -16,7 +16,7 @@
 ## インストール
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/deepai-mem.git
+git clone https://github.com/nazocatAI/deepai-mem.git
 cd deepai-mem
 ./install.sh
 ```
